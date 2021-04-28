@@ -1,0 +1,46 @@
+* {
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  body {
+    background: white;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
+  .team-heading {
+    background-color: rgba(10, 44, 122, 0.7);
+    color: white;
+  }
+  
+  h1 {
+    font-size: 60pt;
+  }
+  
+  h2 {
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .card {
+    border: 2px outset;
+  }
+  
+  .employee-card {
+    margin: 10px;
+    box-shadow: 6px 16px 22px -8px rgba(0, 0, 0, 0.75);
+  }
+  
+  .manager-header {
+    background-color: #749afc;
+  }
+  
+  .engineer-header {
+    background-color: #23fc07;
+  }
+  
+  .intern-header {
+    background-color: #00bedb;
+  }
